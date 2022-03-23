@@ -1,0 +1,11 @@
+/* 
+    tsc jugadores.ts --target ES6 
+    tsc -t es6 jugadores.ts 
+    node jugadores.js
+*/
+
+{
+    "compilerOptions": {
+    "target": "es6"
+    }
+}
